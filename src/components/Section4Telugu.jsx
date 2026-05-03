@@ -55,7 +55,7 @@ const Section4Telugu = () => {
 
         {/* Bride */}
         <p className="font-telugu text-sm md:text-base text-gray-300 italic mb-1" style={{ lineHeight: '1.8' }}>
-          మా చిరంజీవి కుమారై
+          మా చిరంజీవి కుమార్తె
         </p>
         <h3 className="font-telugu text-3xl md:text-5xl text-gold mb-2 font-bold tracking-wider">
           ఇంద్రజ
@@ -112,7 +112,7 @@ const Section4Telugu = () => {
             <div className="flex flex-col md:flex-row w-full justify-between text-center md:text-left gap-6 px-4 mb-8">
                 <div className="flex-1">
                     <p className="font-telugu text-sm md:text-base text-gold font-bold mb-2">ఆహ్వానించువారు:</p>
-                    <p className="font-telugu text-xs md:text-sm text-white opacity-90 mb-1">అంతర్వేది సూర్యచంద్రరావు - శ్రీమతి సువర్ణకుమారి</p>
+                    <p className="font-telugu text-xs md:text-sm text-white opacity-90 mb-1">అంతర్వేది సూర్యచంద్రరావు - శ్రీమతి సూర్యకుమారి</p>
                     <p className="font-telugu text-xs md:text-sm text-white opacity-90 mb-1">దొమ్మేటి హనుమంతరావు - శ్రీమతి అనంతరామదుర్గ, సోంపల్లి</p>
                 </div>
                 <div className="flex-1 md:text-right">

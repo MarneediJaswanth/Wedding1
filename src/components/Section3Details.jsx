@@ -106,7 +106,7 @@ const Section3Details = () => {
         <div className="w-full pt-6 border-t border-gold/20 flex flex-col md:flex-row justify-between text-center md:text-left gap-6 mb-4">
           <div className="flex-1">
             <p className="font-serif text-sm text-gold font-bold mb-2">Invited by :</p>
-            <p className="font-serif text-xs md:text-sm text-white mb-1">Sri. Antarvedi Suryachandrarao - Smt. Suvarnakumari</p>
+            <p className="font-serif text-xs md:text-sm text-white mb-1">Sri. Antarvedi Suryachandrarao - Smt. Suryakumari</p>
             <p className="font-serif text-xs md:text-sm text-white">Sri. Dommeti Hanumantha Rao - Smt. Anantha Rama Durga</p>
           </div>
           <div className="flex-1 md:text-right">
