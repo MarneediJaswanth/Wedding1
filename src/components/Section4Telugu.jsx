@@ -67,7 +67,7 @@ const Section4Telugu = () => {
 
         {/* Groom */}
         <p className="font-telugu text-sm md:text-base text-gray-300 italic mb-1" style={{ lineHeight: '1.8' }}>
-          మా చిరంజీవి
+          చిరంజీవి
         </p>
         <h3 className="font-telugu text-3xl md:text-5xl text-gold mb-2 font-bold tracking-wider">
           రత్నకుమార్
@@ -79,7 +79,7 @@ const Section4Telugu = () => {
         {/* Muhurtham Text */}
         <p className="font-telugu text-sm md:text-base text-white font-light tracking-wide mb-6" style={{ lineHeight: '1.8' }}>
           <span className="text-gold font-bold">ముహూర్తం:</span><br/>
-          స్వస్తిశ్రీ చాంద్రమాన శ్రీ పరాభవ నామ సంవత్సర వైశాఖ బహుళ అమావాస్య <br/>
+          స్వస్తిశ్రీ చాంద్రమాన శ్రీ పరాభవ నామ సంవత్సర <br/>
           తేది. <span className="text-gold-light font-bold">07-05-2026</span> గురువారం రాత్రి గం|| <span className="text-gold-light font-bold">7-19</span> ని||లకు <br/>
           ఉత్తరాషాఢ నక్షత్రయుక్త వృశ్చిక లగ్నము నందు
         </p>
@@ -113,7 +113,7 @@ const Section4Telugu = () => {
                 <div className="flex-1">
                     <p className="font-telugu text-sm md:text-base text-gold font-bold mb-2">ఆహ్వానించువారు:</p>
                     <p className="font-telugu text-xs md:text-sm text-white opacity-90 mb-1">అంతర్వేది సూర్యచంద్రరావు - శ్రీమతి సువర్ణకుమారి</p>
-                    <p className="font-telugu text-xs md:text-sm text-white opacity-90 mb-1">దొమ్మేటి హనుమంతరావు - శ్రీమతి అనంతరామదుర్గ (సోంపల్లి)</p>
+                    <p className="font-telugu text-xs md:text-sm text-white opacity-90 mb-1">దొమ్మేటి హనుమంతరావు - శ్రీమతి అనంతరామదుర్గ, సోంపల్లి</p>
                     <p className="font-telugu text-xs md:text-sm text-white opacity-90 mb-1">విస్సాకోడేటి విజయకుమారి</p>
                 </div>
                 <div className="flex-1 md:text-right">
