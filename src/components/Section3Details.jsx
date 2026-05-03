@@ -20,7 +20,7 @@ const Section3Details = () => {
         filter: "blur(0px)",
         scrollTrigger: {
           trigger: containerRef.current,
-          start: "top 85%", 
+          start: "top 85%",
           end: "top 30%", // Extended end point for smoother transition
           scrub: 1.5, // Smoother scrub matches the cinematic feel
         }
@@ -30,14 +30,14 @@ const Section3Details = () => {
 
   return (
     <section ref={containerRef} className="relative w-full min-h-screen py-24 flex flex-col items-center justify-center z-10 px-4">
-      
+
       {/* English Invitation Card */}
-      <div 
-        ref={cardRef} 
+      <div
+        ref={cardRef}
         // Strict identical layout for both cards
         className="w-[90%] max-w-[600px] relative z-10 rounded-[20px] bg-[#020617]/50 backdrop-blur-xl border border-gold/30 shadow-[0_8px_32px_rgba(217,119,6,0.15)] p-[20px] md:p-[40px] text-center flex flex-col items-center mx-auto"
       >
-        
+
         {/* Top Header */}
         <p className="font-serif text-xs md:text-sm text-gold-light italic tracking-widest opacity-90 mb-6 drop-shadow-sm">
           Srirasthu ! &nbsp;&nbsp;&nbsp; Shubhamasthu !! &nbsp;&nbsp;&nbsp; Avignamasthu !!!
@@ -50,8 +50,8 @@ const Section3Details = () => {
 
         {/* Body Text */}
         <p className="font-serif text-sm md:text-base text-white font-light tracking-wide mb-4" style={{ lineHeight: '1.8' }}>
-          We cordially invite you and your family to the <br/>
-          auspicious occasion of the marriage of <br/>
+          We cordially invite you and your family to the <br />
+          auspicious occasion of the marriage of <br />
           <span className="text-gray-300 italic">Our Daughter</span>
         </p>
 
@@ -78,7 +78,7 @@ const Section3Details = () => {
             ~ Muhurtham ~
           </legend>
           <p className="font-serif text-sm md:text-base text-white mt-2" style={{ lineHeight: '1.8' }}>
-            On Thursday, <span className="font-bold text-gold-light">7th May 2026</span> at <span className="font-bold text-gold-light">07:19 p.m.</span> <br/>
+            On Thursday, <span className="font-bold text-gold-light">7th May 2026</span> at <span className="font-bold text-gold-light">07:19 p.m.</span> <br />
             Uttarashada Nakshatram, Vrischika Lagnam.
           </p>
         </fieldset>
@@ -87,7 +87,7 @@ const Section3Details = () => {
         <div className="mb-8 w-full border-t border-gold/20 pt-6">
           <h4 className="font-serif text-lg text-gold font-bold mb-3">Venue :</h4>
           <p className="font-serif text-sm md:text-base text-white font-bold mb-3" style={{ lineHeight: '1.8' }}>
-            Jai Rajendra Function Hall <br/>
+            Jai Rajendra Function Hall <br />
             Sivalayam Center, Narasapuram
           </p>
           <p className="font-serif text-sm md:text-base text-white drop-shadow-sm mb-6" style={{ lineHeight: '1.8' }}>
@@ -97,22 +97,22 @@ const Section3Details = () => {
           </p>
           <h4 className="font-serif text-lg text-gold font-bold mb-2">Dinner :</h4>
           <p className="font-serif text-sm md:text-base text-white font-bold">
-            From 7:00 PM onwards <br/>
+            From 7:00 PM onwards <br />
             <span className="font-normal text-gold-light italic">at the Venue</span>
           </p>
         </div>
 
         {/* Invited By */}
         <div className="w-full pt-6 border-t border-gold/20 flex flex-col md:flex-row justify-between text-center md:text-left gap-6 mb-4">
-            <div className="flex-1">
-                <p className="font-serif text-sm text-gold font-bold mb-2">Invited by :</p>
-                <p className="font-serif text-xs md:text-sm text-white mb-1">Sri. Antarvedi Suryachandrarao - Smt. Suvarnakumari</p>
-                <p className="font-serif text-xs md:text-sm text-white">Sri. Dommeti Hanumantha Rao - Smt. Anantha Rama Durga, Sompalli</p>
-            </div>
-            <div className="flex-1 md:text-right">
-                <p className="font-serif text-sm text-gold font-bold mb-2">Yours sincerely :</p>
-                <p className="font-serif text-xs md:text-sm text-white">Sri. Antarvedi Gangadhar - Smt. Satyavathi</p>
-            </div>
+          <div className="flex-1">
+            <p className="font-serif text-sm text-gold font-bold mb-2">Invited by :</p>
+            <p className="font-serif text-xs md:text-sm text-white mb-1">Sri. Antarvedi Suryachandrarao - Smt. Suvarnakumari</p>
+            <p className="font-serif text-xs md:text-sm text-white">Sri. Dommeti Hanumantha Rao - Smt. Anantha Rama Durga</p>
+          </div>
+          <div className="flex-1 md:text-right">
+            <p className="font-serif text-sm text-gold font-bold mb-2">Yours sincerely :</p>
+            <p className="font-serif text-xs md:text-sm text-white">Sri. Antarvedi Gangadhar - Smt. Satyavathi</p>
+          </div>
         </div>
         <div className="w-full pt-4 border-t border-gold/20 flex flex-col items-center">
           <p className="font-calligraphy text-lg md:text-xl text-gold-light opacity-90 mt-2">
