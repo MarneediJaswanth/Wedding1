@@ -57,7 +57,7 @@ const Section3Details = () => {
 
         {/* Bride */}
         <h3 className="font-serif text-2xl md:text-4xl text-gold mb-2 font-bold tracking-wider">
-          Indu
+          Indraja
         </h3>
 
         <p className="font-calligraphy text-xl md:text-2xl text-gold-light mb-2">
@@ -69,7 +69,7 @@ const Section3Details = () => {
           Ratna Kumar
         </h3>
         <p className="font-serif text-xs md:text-sm text-gray-300 italic mb-8" style={{ lineHeight: '1.8' }}>
-          (Eldest son of Smt. Vijaya Kumari & Sri. Vipparthi Venkatrao, Bhimavaram)
+          (Eldest son of Smt. Vijaya Kumari & Sri. Vissakodeti Venkatanarayana, Bhimavaram)
         </p>
 
         {/* Sumuhurtham Box */}
@@ -106,8 +106,9 @@ const Section3Details = () => {
         <div className="w-full pt-6 border-t border-gold/20 flex flex-col md:flex-row justify-between text-center md:text-left gap-6 mb-4">
             <div className="flex-1">
                 <p className="font-serif text-sm text-gold font-bold mb-2">Invited by :</p>
-                <p className="font-serif text-xs md:text-sm text-white mb-1">Sri. Antarvedi Suryachandrarao - Smt. Suryakumari</p>
-                <p className="font-serif text-xs md:text-sm text-white">Sri. Chimmati Manikyalarao - Smt. Tarakarameshwari</p>
+                <p className="font-serif text-xs md:text-sm text-white mb-1">Sri. Antarvedi Suryachandrarao - Smt. Suvarnakumari</p>
+                <p className="font-serif text-xs md:text-sm text-white mb-1">Sri. Dommeti Hanumantha Rao - Smt. Anantha Rama Durga (Sompalli)</p>
+                <p className="font-serif text-xs md:text-sm text-white">Smt. Vissakodeti Vijaya Kumari</p>
             </div>
             <div className="flex-1 md:text-right">
                 <p className="font-serif text-sm text-gold font-bold mb-2">Yours sincerely :</p>

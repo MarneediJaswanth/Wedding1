@@ -52,7 +52,7 @@ const Section1Hero = () => {
         </p>
 
         <h1 className="font-serif text-4xl md:text-6xl lg:text-7xl mb-12 text-white tracking-widest font-semibold drop-shadow-2xl text-gradient-gold">
-          A.Indu
+          A.Indraja
         </h1>
 
         <div className="flex flex-col items-center gap-2 mb-10 animate-bounce">

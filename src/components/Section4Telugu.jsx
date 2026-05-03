@@ -58,7 +58,7 @@ const Section4Telugu = () => {
           మా చిరంజీవి కుమారై
         </p>
         <h3 className="font-telugu text-3xl md:text-5xl text-gold mb-2 font-bold tracking-wider">
-          ఇందు
+          ఇంద్రజ
         </h3>
         
         <p className="font-telugu text-lg md:text-xl text-gold-light my-2">
@@ -73,7 +73,7 @@ const Section4Telugu = () => {
           రత్నకుమార్
         </h3>
         <p className="font-telugu text-xs md:text-sm text-gray-300 italic mb-8 px-4" style={{ lineHeight: '1.8' }}>
-          (పశ్చిమ గోదావరి జిల్లా, భీమవరం వాస్తవ్యులు శ్రీ విప్పర్తి వెంకట్రావు - శ్రీమతి విజయ కుమారి దంపతుల జ్యేష్ఠ కుమారుడు)
+          (పశ్చిమ గోదావరి జిల్లా, భీమవరం వాస్తవ్యులు శ్రీ విస్సాకోడేటి వెంకటనారాయణ - శ్రీమతి విజయ కుమారి దంపతుల జ్యేష్ఠ కుమారుడు)
         </p>
 
         {/* Muhurtham Text */}
@@ -112,8 +112,9 @@ const Section4Telugu = () => {
             <div className="flex flex-col md:flex-row w-full justify-between text-center md:text-left gap-6 px-4 mb-8">
                 <div className="flex-1">
                     <p className="font-telugu text-sm md:text-base text-gold font-bold mb-2">ఆహ్వానించువారు:</p>
-                    <p className="font-telugu text-xs md:text-sm text-white opacity-90 mb-1">అంతర్వేది సూర్యచంద్రరావు - శ్రీమతి సూర్యకుమారి</p>
-                    <p className="font-telugu text-xs md:text-sm text-white opacity-90 mb-1">చిమ్మటి మాణిక్యాలరావు - శ్రీమతి తారకరామేశ్వరి</p>
+                    <p className="font-telugu text-xs md:text-sm text-white opacity-90 mb-1">అంతర్వేది సూర్యచంద్రరావు - శ్రీమతి సువర్ణకుమారి</p>
+                    <p className="font-telugu text-xs md:text-sm text-white opacity-90 mb-1">దొమ్మేటి హనుమంతరావు - శ్రీమతి అనంతరామదుర్గ (సోంపల్లి)</p>
+                    <p className="font-telugu text-xs md:text-sm text-white opacity-90 mb-1">విస్సాకోడేటి విజయకుమారి</p>
                 </div>
                 <div className="flex-1 md:text-right">
                     <p className="font-telugu text-sm md:text-base text-gold font-bold mb-2">భవదీయులు:</p>
