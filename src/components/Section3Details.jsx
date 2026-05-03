@@ -107,8 +107,7 @@ const Section3Details = () => {
             <div className="flex-1">
                 <p className="font-serif text-sm text-gold font-bold mb-2">Invited by :</p>
                 <p className="font-serif text-xs md:text-sm text-white mb-1">Sri. Antarvedi Suryachandrarao - Smt. Suvarnakumari</p>
-                <p className="font-serif text-xs md:text-sm text-white mb-1">Sri. Dommeti Hanumantha Rao - Smt. Anantha Rama Durga, Sompalli</p>
-                <p className="font-serif text-xs md:text-sm text-white">Smt. Vissakodeti Vijaya Kumari</p>
+                <p className="font-serif text-xs md:text-sm text-white">Sri. Dommeti Hanumantha Rao - Smt. Anantha Rama Durga, Sompalli</p>
             </div>
             <div className="flex-1 md:text-right">
                 <p className="font-serif text-sm text-gold font-bold mb-2">Yours sincerely :</p>

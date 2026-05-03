@@ -114,7 +114,6 @@ const Section4Telugu = () => {
                     <p className="font-telugu text-sm md:text-base text-gold font-bold mb-2">ఆహ్వానించువారు:</p>
                     <p className="font-telugu text-xs md:text-sm text-white opacity-90 mb-1">అంతర్వేది సూర్యచంద్రరావు - శ్రీమతి సువర్ణకుమారి</p>
                     <p className="font-telugu text-xs md:text-sm text-white opacity-90 mb-1">దొమ్మేటి హనుమంతరావు - శ్రీమతి అనంతరామదుర్గ, సోంపల్లి</p>
-                    <p className="font-telugu text-xs md:text-sm text-white opacity-90 mb-1">విస్సాకోడేటి విజయకుమారి</p>
                 </div>
                 <div className="flex-1 md:text-right">
                     <p className="font-telugu text-sm md:text-base text-gold font-bold mb-2">భవదీయులు:</p>
@@ -123,10 +122,10 @@ const Section4Telugu = () => {
             </div>
 
             <p className="font-telugu text-xs md:text-sm text-white opacity-80 mt-2 px-2" style={{ lineHeight: '1.8' }}>
-              అంతర్వేది నాగరాజు, శ్రీను, బాబీ, భాస్కర్, శ్రీకాంత్, చింతలపాటి దుర్గారావు - శ్రీమతి మంగ, <br/>
-              చింతలపాటి ప్రభాకర్, రాజు, నాగేంద్ర, దొమ్మేటి మల్లేశ్వరరావు, బద్రీనాథ్, <br/>
+              అంతర్వేది నాగరాజు, శ్రీను, బాబీ, భాస్కర్, శ్రీకాంత్, చింతలపల్లి దుర్గారావు - శ్రీమతి మంగ, <br/>
+              చింతపల్లి ప్రభాకర్, రాజు, నాగేంద్ర, దొమ్మేటి మల్లేశ్వరరావు, బద్రీనాథ్, <br/>
               శ్రీనుబాబు, నేదునూరి దుర్గాప్రసాద్, మహేష్, నాదూరి రాజేష్, రాము, <br/>
-              పోతుమూడి సత్యనారాయణ, దొడ్డవరపు సతీష్, మొగలూరు రాజేష్, కోనపల్లి సురేష్, <br/>
+              పోతుమూడి సత్యనారాయణ, దొడ్డవరపు సతీష్, మొగలాకు రాజేష్, సోంపల్లి సురేష్, <br/>
               భీమడోలు గంగ - శ్రీమతి లక్ష్మి గార్లు మరియు బంధుమిత్రుల అభినందనలతో...
             </p>
         </div>
